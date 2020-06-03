@@ -1,0 +1,19 @@
+IMPORTANT:
+	Afin de lancer le jeu, il est absolument nécessaire d'avoir installé Java version 8 ou supérieur
+	Vous pouvez le trouver gratuitement à l'adresse suivante : https://www.java.com/fr/
+	
+	Une fois l'installation terminée, il suffit d'exécuter le fichier "SlimeWorld.jar"
+	Vous trouverez le code du jeu dans les dossiers "SlimeWorld\core\src" et
+	"SlimeWorld\desktop\src\com\mygdx\game\desktop"
+
+COMMANDES:
+	déplacement: flèches directionnelles "gauche" et "droite"
+	sauter: flèche directionnelle "haut"
+	tirer: touche espace
+	afficher le HUD: touche Tabulation
+	pause: touche échap
+
+NOTES: Le jeu a été testé sous windows 10 64 bits mais devrait tourner également sous linux et macOS sans problème.
+	Il est conseillé de ne pas mettre le jeu en plein écran pour éviter certains problèmes potentiels.
+	Vous trouverez une démonstration des foncitonnalités du jeu dans cette vidéo: https://www.youtube.com/watch?v=kr7I0zkX_gc
+	
